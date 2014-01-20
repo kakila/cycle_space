@@ -1,5 +1,5 @@
 '''
- Copyright (C) 2013 - Juan Pablo Carbajal
+ Copyright (C) 2014 - Juan Pablo Carbajal
 
  Redistribution and use in source and binary forms, with or without
  modification, are permitted provided that the following conditions are
